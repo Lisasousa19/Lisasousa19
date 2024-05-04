@@ -6,5 +6,4 @@
 * Atualmente, estou cursando segunda graduação em Gestão da Tecnologia da Informação.
 * E em paralelo realizando cursos complementares de Ethical Hacker | Backend com Java | Python data Analytics
 
-📧 Contato:
-### lisasousa19@gmail.com
+📧 Contato: lisasousa19@gmail.com
