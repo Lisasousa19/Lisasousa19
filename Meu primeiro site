@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Meu primeiro HTML!</title>
+    </head>
+    <body>
+        
+        <ul>
+            <li>
+                <a href="http://dio.me"  title="Clique aqui e confira" target="_self">Dio.me</a>
+            </li>
+        </ul>
+        <h2>Codifique o seu futuro global agora!</h2>
+        <p>
+            Domine as <strong><u>tecnologias</u><sup>*</sup></strong> utilizadas pelas empresas mais inovadoras do mundo e encare seu novo desafio profissional, evoluindo em comunidade com os melhores experts.
+        <p>
+            <blockquote>
+                <i>O jeito DIO._ para você ganhar destaque mais rápido no mercado.</i>
+            </blockquote>
+           <h2>
+            Aprenda tecnologias emergentes
+           </h2>
+        <p>
+            Os nossos cursos e programas de formação são criados em conjunto com especialistas das empresas <mark> inovadoras do mundo</mark>, aplicando uma metodologia para que você domine as tecnologias utilizadas no mercado e também mergulhe nas novas e mais atuais tecnologias que impactarão o futuro dos negócios digitais.
+        </p>
+           
+
+           
+    </body>
+    
+</html>
