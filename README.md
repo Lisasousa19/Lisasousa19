@@ -7,4 +7,4 @@ Ao longo da minha carreira, desenvolvi habilidades práticas em Excel para anál
 📧 Contato: lisasousa19@gmail.com
 
 <p align="left">
-<a href="https://www.linkedin.com/in/lisasousaa19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lisasousaa19/" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/lisasousaa19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lisasousaa19/" height="25" width="30" /></a>
